@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasynetQDemo", "EasynetQDemo\EasynetQDemo.csproj", "{026B86C2-2E17-4012-B8F9-F2F1B673D675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{026B86C2-2E17-4012-B8F9-F2F1B673D675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026B86C2-2E17-4012-B8F9-F2F1B673D675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026B86C2-2E17-4012-B8F9-F2F1B673D675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026B86C2-2E17-4012-B8F9-F2F1B673D675}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06AE3305-18A9-464B-B338-68AAAEBFC4CC}
+	EndGlobalSection
+EndGlobal
