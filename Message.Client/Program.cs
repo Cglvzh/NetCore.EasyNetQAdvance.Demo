@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace EasynetQDemo
+namespace Message.Client
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //发送消息
-            Send.SendMessage();
+            MessageManService.Subsribe();
             Console.WriteLine("Hello World!");
         }
     }
